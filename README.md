@@ -5,4 +5,4 @@
 ### Main R codes are availble. Please cite if our work helps you.
 ### All sequencing data is deposited in [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE230119)
 
-![](https://github.com/KoheiKumegawa/BC_10PDOs_scRNA/blob/main/figure2.png)
+![](https://github.com/KoheiKumegawa/BasalBC_GMM/blob/main/figure1_v3.png)
